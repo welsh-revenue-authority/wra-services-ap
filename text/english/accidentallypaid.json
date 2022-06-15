@@ -1,0 +1,75 @@
+{
+  "text": {
+    "documentTitleText": "Request a refund",
+    "subheader": "Accidentally paid refund",
+    "header": "Request a refund",
+    "previous": "Back",
+    "next": "Next",
+    "validation": {
+      "invalidPrice": "Enter a valid amount.",
+      "aboveMax": "The purchase price must not exceed £999,999,999,999",
+      "dateInFuture": "Date cannot be in the future.",
+      "invalidDate": "Date invalid.",
+      "emptyField": "Field is empty.",
+      "radioEmpty": "Choose an option.",
+      "declarationInvalid": "You must agree this form is correct",
+      "phoneNumberInvalid": "Phone number invalid.",
+      "emailInvalid": "Email invalid.",
+      "sortCodeInvalid": "Sort code invalid.",
+      "accountNumberInvalid": "Account number invalid."
+    },
+    "aboutPayment": {
+      "title": "About the payment you incorrectly made to us",
+      "question1": "Amount paid",   
+      "question2": "Date payment made",    
+      "question3": "Payment reference", 
+      "question4": "Reason you made the payment to us in error (who / what was the payment actually intended for)",
+      "hint": "Enter valid amount"
+    },
+    "aboutRefund": {
+      "title": "About your refund",
+      "question1": "Amount",   
+      "question2": "Name of account holder",    
+      "question3": "Account number", 
+      "question4": "Sort code",
+      "question5": "Name of bank or building society",
+      "question6": "Address of bank or building society",
+      "question7": "Is the account you want the refund made to, the same account you paid us from?",
+      "question8": "Please briefly explain why you are asking for a refund to be made to an account which is not the same account you paid us from?",
+      "question7radio": [
+        {
+          "value": "True",
+          "label": "Yes"
+        },
+        {
+          "value": "False",
+          "label": "No"
+        }
+      ],
+      "hint": "Enter valid amount"
+    },
+    "aboutUser": {
+      "title": "Details about you",
+      "question1": "First name",
+      "question1b": "Last name",   
+      "question2": "Your email",    
+      "question3": "Phone number",
+      "question4": "I, the buyer, declare that this form is, to the best of my knowledge, correct and complete",
+      "question4radio": [
+        {
+          "value": "True",
+          "label": "Yes"
+        },
+        {
+          "value": "False",
+          "label": "No"
+        }
+      ],
+      "hint": "Enter valid amount"
+    },
+    "success": {
+      "title": "Success",
+      "message": "Your request has been submitted successfully. Please allow 3-5 working days for a email reply."
+    }
+  }
+}
