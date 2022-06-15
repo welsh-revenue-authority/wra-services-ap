@@ -31,13 +31,13 @@
     "wraLogo": {
       "logoLinkText": "Ewch i brif safle Awdurdod Cyllid Cymru",
       "logoAltText": "Logo Awdurdod Cyllid Cymru",
-      "logoFilePath": "/img/wra-logo-welsh.svg",
+      "logoFilePath": "../img/wra-logo-welsh.svg",
       "logoHref": "https://llyw.cymru/awdurdod-cyllid-cymru"
     },
     "wgLogo": {
       "logoLinkText": "Ewch i brif safle Llywodraeth Cymru",
       "logoAltText": "Logo Llywodraeth Cymru",
-      "logoFilePath": "/img/wg-logo-black.svg",
+      "logoFilePath": "../img/wg-logo-black.svg",
       "logoHref": "https://llyw.cymru/"
     },
     "footer": {
