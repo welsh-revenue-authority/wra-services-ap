@@ -21,7 +21,7 @@
     "aboutPayment": {
       "title": "About the payment you incorrectly made to us",
       "question1": "Amount paid",   
-      "question2": "Date payment made",    
+      "question2": "Date payment made (DD/MM/YYYY)",    
       "question3": "Payment reference", 
       "question4": "Reason you made the payment to us in error (who / what was the payment actually intended for)",
       "hint": "Enter valid amount"
