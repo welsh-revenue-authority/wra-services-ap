@@ -52,8 +52,8 @@
       "title": "Details about you",
       "question1": "First name",
       "question1b": "Last name",   
-      "question2": "Your email",    
-      "question3": "Phone number",
+      "question2": "Email",    
+      "question3": "Phone number (optional)",
       "question4": "I, the buyer, declare that this form is, to the best of my knowledge, correct and complete",
       "question4radio": [
         {
