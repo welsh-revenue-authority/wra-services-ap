@@ -1,0 +1,47 @@
+{
+  "text": {
+    "documentTitleText": "Land Transaction Tax Portal",
+    "subheader": "Land Transaction Tax",
+    "header": "Statement portal",
+    "previous": "Back",
+    "next": "Next",
+    "validation": {
+      "invalidUtrn": "Please enter valid UTRN",
+      "invalidBuyerType": "Please choose an option",
+      "invalidBuyerName": "Please input the buyers name",
+      "invalidPostcode": "Please enter valid postcode."
+    },
+    "inputUTRN": {
+      "title": "LTT Statement",
+      "question1": "Unique Transaction Reference Number (UTRN)",
+      "hint": "(This is 12 digits long)"
+    },
+    "postCode": {
+      "title": "Property details",
+      "question1": "Property postcode"
+    },
+    "buyerType": {
+      "title": "Buyer Details",
+      "question1": "Who was the buyer for this transaction?",
+      "question1radio": [
+        {
+          "value": "True",
+          "label": "One or more individuals"
+        },
+        {
+          "value": "False",
+          "label": "An organisation"
+        }
+      ]
+    },
+    "buyerName": {
+      "title": "Buyer Details",
+      "organisationQuestion": "The name of the organisation",
+      "individualQuestion": "Buyer surname",
+      "individualHint": "If there is more than one buyer, you need to enter the surname of the lead buyer."
+    },
+    "LttStatement": {
+      "title": "Your statement"
+    }
+  }
+}
